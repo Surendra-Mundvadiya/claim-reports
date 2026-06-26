@@ -1,0 +1,74 @@
+Use this as the Scope and Introduction section for the landscape.
+
+Introduction: AI-Driven Cybersecurity Patent Landscape
+
+Artificial intelligence is becoming a core layer of modern cybersecurity systems. Traditional rule-based security tools are increasingly being supplemented by machine learning, behavioral analytics, automated threat detection, adaptive response systems, and AI-assisted vulnerability management. This landscape examines how patent activity reflects that shift.
+
+The focus of this patent landscape is on inventions where AI, machine learning, analytics, automation, or intelligent decision-making are applied to cybersecurity problems. These include threat detection, network and cloud protection, identity security, malware and phishing defense, AI model security, privacy protection, security testing, and risk management.
+
+The purpose of this landscape is to identify the main technology directions, leading patent filers, category-wise concentration of innovation, filing and publication trends, important patents, problem areas being addressed, and possible ideation opportunities. The analysis is based on the patent dataset provided in the Excel file and uses a consistent 8-category framework throughout the deck.
+
+Scope of the Landscape
+
+This landscape covers patents relating to AI-driven cybersecurity technologies present in the provided dataset. The analysis is based on 689 patent records from the uploaded Excel file and is organized into the following 8 standard technology categories:
+
+Category	Records
+Threat Detection and Response	258
+Network and Cloud Security	146
+Vulnerability and Risk Management	75
+Identity and Access Management	67
+AI Model Security	60
+Malware and Phishing Defense	32
+Security Automation and Testing	26
+Data and Privacy Protection	25
+
+The scope includes patents directed to AI/ML-based detection, classification, prediction, prevention, automation, monitoring, anomaly detection, access control, model protection, data security, and cyber-risk assessment.
+
+The scope does not independently verify patent validity, infringement, legal status, claim strength, family coverage, or commercial implementation. It also does not include external patent expansion unless a separate database search is performed. The categorization is based on the available patent text and metadata in the provided Excel dataset.
+
+Technology Scope
+
+The landscape includes AI-enabled cybersecurity inventions in the following areas:
+
+Technology Area	Scope Covered
+Threat Detection and Response	AI-based anomaly detection, intrusion detection, alert prioritization, security event analysis, incident response, and SOC support systems.
+Network and Cloud Security	Protection of networks, cloud workloads, distributed systems, traffic monitoring, cloud access security, and infrastructure-level cyber defense.
+Vulnerability and Risk Management	AI-assisted vulnerability identification, risk scoring, exposure assessment, patch prioritization, and cyber-risk prediction.
+Identity and Access Management	Authentication, authorization, access control, identity verification, user behavior analysis, and adaptive trust systems.
+AI Model Security	Protection of AI systems from adversarial attacks, model abuse, poisoning, misuse, unsafe outputs, and AI-specific security failures.
+Malware and Phishing Defense	Detection and prevention of malware, phishing, malicious URLs, fraudulent communications, and social-engineering attacks.
+Security Automation and Testing	Automated security testing, cyber simulation, penetration testing support, security orchestration, and automated validation.
+Data and Privacy Protection	Secure handling of sensitive data, privacy-preserving analytics, data leakage prevention, encryption-related security, and compliance-oriented protection.
+
+Analytical Scope
+
+The landscape evaluates the dataset through the following lenses:
+
+Analysis Dimension	Purpose
+Category Distribution	Identifies where innovation is most concentrated.
+Top Patent Filing Companies	Shows the strongest assignees in the dataset.
+Top Technology Categories	Highlights dominant AI-cybersecurity invention areas.
+Assignees v. Categories	Compares company focus across the 8 standard categories.
+Company Patent Count Table	Shows how many patent records are associated with each leading assignee.
+Category Patent Count Table	Shows the size of each technology category.
+Publication Year v. Company	Shows publication activity of leading companies over time.
+Filing Year v. Category	Shows category-level innovation trends over filing years.
+Top Problems and Directions	Identifies recurring cybersecurity problems and the technical direction of solutions.
+Ideation Opportunities	Extracts white-space and invention opportunities from observed trends.
+Important Patents by Category	Highlights selected patents within each of the 8 categories.
+
+Suggested Slide Text: Scope
+
+Scope of the Landscape
+
+This patent landscape analyzes AI-driven cybersecurity inventions from the provided patent dataset. The dataset contains 689 patent records and has been classified into 8 consistent technology categories. The scope covers patents where AI, machine learning, automation, analytics, or intelligent decision-making are applied to cybersecurity use cases such as threat detection, network protection, vulnerability management, identity security, malware defense, AI model security, security testing, and data protection.
+
+The analysis focuses on patent filing concentration, assignee activity, technology-category trends, category-wise distribution, year-wise filing and publication patterns, key problem areas, important patents, and ideation opportunities. The landscape is intended to support technical understanding, patent strategy, R&D direction, and invention mining.
+
+Suggested Slide Text: Introduction
+
+Introduction
+
+Cybersecurity systems are moving from static, rule-based defense toward adaptive, AI-assisted security architectures. AI is being used to detect unknown threats, prioritize alerts, identify vulnerabilities, monitor user behavior, protect cloud and network infrastructure, defend against malware and phishing, and secure AI models themselves.
+
+This patent landscape captures that transition by analyzing patent activity in AI-driven cybersecurity. It identifies where companies are filing, which technology areas are most active, how innovation is distributed across categories, and what problems are repeatedly being addressed. The landscape also highlights possible future ideation areas based on gaps and emerging technical directions in the dataset.
